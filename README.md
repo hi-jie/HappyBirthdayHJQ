@@ -1,4 +1,8 @@
-## birthday-mobile
+## HappyBirthdayHJQ
+
+### 简介
+
+**张智杰大帅哥**给**黄嘉琪**的生日礼物。
 
 ### 说明
 
@@ -87,68 +91,3 @@ css代码确实很乱(ಡωಡ)，简单改了一下，电脑和手机都可以�
     <div class="ly-triangle23"></div>
 </div>
 ```
-
-## 如何给别人看
-1. 打成压缩包发给别人
-2. 部署至云服务器或者虚拟主机（需要域名，成本较高）
-  3. 部署至Gitee Pages（gitee在国内，速度快，微信不回拦截，无需域名和服务器/虚拟主机，几乎零成本）
-
-如果需要用域名访问，请先去购买域名，然后按照教程进行解析。
-
-
-
-##### 小建议(ಡωಡ)：
-
-- 将页面部署至云端，将地址生成二维码，然后手绘或者雕刻二维码效果可能比较好，显得用心，但不确定时也要慎用，可能最后只是感动自己，节省时间干啥不好(ಡωಡ)。
-- 二维码可以雕刻在礼物上，如木制工艺品，或者画在卡片上随礼物赠送
-
-
-
-## <a id="important" style="color: #000;">注意点</a>
-
-Google Chrome浏览器更新后会拦截自动播放音乐，暂时无解（有没有我也不知道，没研究(ಡωಡ)）
-
-其他Chrome内核浏览器无影响，如新版Edge
-
-Firfox未测试
-
-**手机屏幕大小不同，建议根据实际屏幕大小修改Memories.html页面，防止图片遮挡文字。**
-
-
-## 其它问题
-有问题请发邮件至 [oxygen@mapletown.xyz](oxygen@mapletown.xyz)，公有问题我会继续更新在README
-
-## 改进计划
-暂无，后续可能会整理代码（感觉要重写），提高浏览器兼容性
-
-
-
-## 截图
-
-#### 电脑端
-
-<img src="screenshot/11.png" style="zoom: 80%;" />
-
-<img src="screenshot/12.png" style="zoom:80%;" />
-
-<img src="screenshot/14.png" style="zoom:80%;" />
-
-
-
-#### 移动端（窄屏，如iPhone X）
-
-<img src="screenshot/1.png" style="zoom: 25%;" />
-
-<img src="screenshot/3.png" style="zoom: 25%;" />
-
-<img src="screenshot/5.png" style="zoom: 25%;" />
-
-
-
-#### 移动端（宽屏，如三星 S5）
-
-<img src="screenshot/6.png" style="zoom: 25%;" />
-
-<img src="screenshot/9.png" style="zoom:25%;" />
-
-<img src="screenshot/10.png" style="zoom:25%;" />

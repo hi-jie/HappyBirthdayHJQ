@@ -5,4 +5,7 @@ $(function(){
         'navigationColor':['#fff'],
     });
 });
-//loadAudioFile('../music/1.mp3');
+loadAudioFile('music/与你同在.m4a');
+$(window).click(function(){
+       $('audio')[0].play();
+    });
